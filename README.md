@@ -1,3 +1,6 @@
+This is a fork of phrozenbyte/cssmin simply to correct some deprecations in relation to PHP 8.2. Not thouroughly tested and mainly for my own personal use.
+All credit for the code goes to the original author
+
 CssMin
 ======
 
